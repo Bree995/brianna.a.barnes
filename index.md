@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brianna A. Barnes</title>
+
+<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+h1,h2,h3,h4,h5,h6 {
+    font-style: normal;
+    font-weight: 400;
+}
+body {
+    background-color: #E4DADA;
+    background-image: url(240_F_181906566_UMUGEmqjM12bOVMomS6FbraCcS8YduVy.jpg);
+    background-repeat: repeat;
+}
+a:link {
+    color: #F1E3E3;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #F1E3E3;
+}
+a:active {
+    text-decoration: none;
+}
+</style>
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default;miss-fajardose:n4:default;judson:n4:default;dynalight:n4:default;ruthie:n4:default;arizonia:n4:default;alex-brush:n4:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body background="240_F_181906566_UMUGEmqjM12bOVMomS6FbraCcS8YduVy.jpg">
+<header>
+	<div class="col-lg-6">
+    <!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+   </div><!-- /.row --> 
+</header>	
+<!-- Main Container -->
+<div class="container">
+<!-- Navigation -->
+  <header> <a href="">
+  <h3 class="logo"><u><img src="My Post my name.jpg" alt="2" width="308" height="97"></u></h3>
+  </a>
+    <nav>
+      <ul>
+        <li><a href="Making a website (Final Home Page) - Copy.html">HOME</a></li>
+		<li class="dropdown"><a href="javascript:void(0)" class="dropbtn">LITERATURE</a>
+		  <div class="dropdown-content">
+      <a href="Books for webpage (Time Away From The Heart).html">Time Away From The Heart: The Bloom</a>
+      <a href="Daniel Book webpage.html">Daniel's Rise To Triumph</a>
+      <a href="A True Woman's Worth Is Better Than Real Gold.html">A True Woman's Worth: Expressions Of Her Colorful Beauty A New Side To The Story</a>
+    </div>
+  </li>
+		<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3e0622;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: silver;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+<li><a href="About Me Page.html">AUTOBIOGRAPHY</a></li>
+<li><a href="Contact Me.html">CONTACT</a></li>
+<li><a href="Donatepage.html"><strong>DONATE</strong></a></li
+      </ul>
+    </nav>
+	  <nav class="navigation">
+  </header>
+	<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #E4DADA;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+/* Number text (1/2 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #3E0622;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #E2EC31;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 2</div>
+  <img src="img_nature_wide.jpg" alt="0" width="62%" height="8" style="width:0%"><img src="My Post (24).jpg" width="970" height="350" alt="2"/>
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 2</div>
+  <img src="My Post (25).jpg" width="980" height="350" alt=""/>
+  <div class="text"></div>
+</div> 
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 10000); 
+}
+</script>
+
+</body>
+</html>   
+<p>
+  <!-- /.col-lg-6 -->
+  </div><!-- /.row -->
+  <!-- About Section -->
+  <section class="books" id="books">
+    <h2 class="hidden">BOOKS</h2> 
+	
+</section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail">
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;</h1>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;</h1>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;</h1>
+    </div>
+  </div>
+  <!-- Parallax Section -->
+  <section class="banner tagline footer_banner">
+    <h2 class="parallax">WELCOME TO BRIANNA BARNES OFFICAL WEBSITE</h2>
+	<p class="text_column center parallax_description">&nbsp;Where Books Meet Christian Content and Other Multi-Genres.</p>
+  </section>
+  </footer>  
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2019-Brianna A. Barnes </div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
